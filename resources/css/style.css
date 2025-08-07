@@ -1,0 +1,26 @@
+/*Sheetwide*/
+body{
+    background-color: black;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+
+}
+
+/*Links*/
+a{color: aquamarine;
+font-size: 16px;}
+
+/*Standard Text*/
+p{color:gray;
+font-size: 21px;}
+
+/*First header*/
+h1{font-size: 50px;font-weight: normal;}
+
+/*Second header*/
+h2{font-size: 42px; font-weight: 300;}
+
+/*Footer*/
+footer{text-align: right;}
